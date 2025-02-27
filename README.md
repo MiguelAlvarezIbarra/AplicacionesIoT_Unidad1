@@ -27,7 +27,7 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 ### Códigos:
 - [Flow Node-Red](https://github.com/MiguelAlvarezIbarra/AplicacionesIoT_Unidad1/blob/main/flow1.json)
   
-- [Diagrama de conexión]
+- [Diagrama de conexión](https://app.cirkitdesigner.com/project/13afbeaf-8b15-4bff-8420-f4c55aff3574)
   
 - [Código Python Documentado](https://github.com/MiguelAlvarezIbarra/AplicacionesIoT_Unidad1/commit/b78ed7f8a077e9d881702dd830a4194182835a96)
 
