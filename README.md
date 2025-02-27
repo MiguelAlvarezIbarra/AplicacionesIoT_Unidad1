@@ -25,8 +25,10 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 ## Actividades en pareja.
 - [Actividad 1 y 2 parejas](https://drive.google.com/file/d/1AY2FTR8uPCJS0bn5l2eF9jXhlDHp-9AZ/view?usp=drive_link)
 ### Códigos:
-- [Diagrama de conexión](https://drive.google.com/file/d/1BBMqcXRfcAkuH-qIF29YJuWEf-ynKbIy/view?usp=drive_link)
-
+- [Flow Node-Red](https://github.com/MiguelAlvarezIbarra/AplicacionesIoT_Unidad1/blob/main/flow1.json)
+  
+- [Diagrama de conexión]
+  
 - [Código Python Documentado](https://github.com/MiguelAlvarezIbarra/AplicacionesIoT_Unidad1/commit/b78ed7f8a077e9d881702dd830a4194182835a96)
 
 ## Actividades individuales.
